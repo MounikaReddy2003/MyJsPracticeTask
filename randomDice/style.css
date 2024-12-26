@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#btn{
+    font-size: 3em;
+    padding: 5px 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnn{
+    transition: background-color 0.25s;
+}
+.btnn:hover{
+    background-color: aqua;
+
+}
+#label{
+    font-size: 3em;
+}
