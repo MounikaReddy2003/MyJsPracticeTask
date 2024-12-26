@@ -1,0 +1,26 @@
+#countlabel{
+    display: block;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#counterlabel{
+    text-align: center;
+    
+}
+
+.button{
+    font-size: 1em;
+    padding: 10px 20px;
+    background-color: hsl(207, 86%, 75%);
+    cursor:pointer;
+    color: aliceblue;
+    border-radius: 5px;
+    transition: background-color 0.25s;
+}
+
+.button:hover{
+    background-color: blue;
+
+}
